@@ -1,12 +1,25 @@
-### Github Profile for Adept fray
+### Adept fray's developer profile
 
-I am an aspiring web developer.<br>
-I am actively learning about web development.
+#### About me
 
-- Front-end
+I am an aspiring web developer eager to start my career in the tech industry. Currently studying web development course on TUC university of applied sciences with focus on full-stack web development. I'm enthusiastic about learning and applying new technologies to create innovative solutions. My goal is to contribute to meaningful projects while continuously enhancing my skills.
+
+#### Skills
+
+- **programming languages:** html, css, javascript, c#
+- **frameworks/libraries:** react, nodejs, asp.net core
+- **version control:** git, github
+- **other tools:** vs code, visual studio, figma
+
+#### Areas of web that I pursue
+
+- front-end
 - back-end
 - full-stack
 - web design UI /UX
+
+<br>
+<br>
 
 ## Index
 
